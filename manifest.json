@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Force Microsoft Teams in Browser",
+  "description": "Force Microsoft Teams to open meeting links in the browser not the desktop app.",
+  "version": "0.0.1",
+  "homepage_url": "https://github.com/yodapotatofly/ForceTeamsInBrowser",
+  "author": "Raphaël Brogat",
+  "icons": {
+    "128": "window-restore-solid.png"
+  },
+  "content_scripts": [{
+    "matches": ["https://teams.microsoft.com/dl/launcher/launcher.html?*"],
+    "js": [
+      "src/app.js"
+    ],
+    "run_at": "document_start"
+  }]
+}

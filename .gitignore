@@ -1,0 +1,10 @@
+.DS_Store
+
+*.orig
+
+node_modules
+
+# Compiled files.
+src/content.js
+
+src/content/templates.js
