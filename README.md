@@ -7,11 +7,11 @@ in your browser, Teams tries to open that link in its desktop app
 
 This is not always wanted, but there is no easy way to get rid of that annoying dialog
 
-Now, any time you visit a meetup link, Teams will not ask you to open the desktop app.
+Now, any time you visit a meetup link, Teams will not ask you to open the desktop app and will redirect to the web meeting directly
 
 ## Install
 
-https://chrome.google.com/webstore/detail/........
+https://chromewebstore.google.com/detail/force-microsoft-teams-in/onoddichnpopfgmdkebadmjionhlldab
 
 ## Contributing
 

@@ -1,6 +1,6 @@
 {
   "name": "ForceTeamsInBrowser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A Chrome extension that forces Microsoft Teams to open meeting links in the browser not the desktop app.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
